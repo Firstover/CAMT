@@ -8,8 +8,8 @@ public class Factorial {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Factorial of : ");
-		System.out.format("Factorial is %d",findfact(input.nextInt()));
-		input.close();
+	System.out.format("Factorial is %d",findfact(input.nextInt()));
+	input.close();
     }
     
 }
