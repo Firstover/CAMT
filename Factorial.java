@@ -12,4 +12,4 @@ public class Factorial {
 	input.close();
     }
     
-}
+}s
