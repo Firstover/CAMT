@@ -9,7 +9,7 @@ public class PowerofTwo {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Number : ");
 	System.out.format("Result is %d",p(input.nextInt()));
-	input.close();s
+	input.close();
     }
     
 }
