@@ -1,4 +1,3 @@
-# CAMT
-CAMT JAVA CODE
+# CAMT JAVA CODE
 รวบรวมโค้ดมาให้แล้ว
 ไม่ต้องไปนั่งเขียนใหม่
