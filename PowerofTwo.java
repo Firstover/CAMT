@@ -8,8 +8,8 @@ public class PowerofTwo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Number : ");
-		System.out.format("Result is %d",p(input.nextInt()));
-		input.close();
+	System.out.format("Result is %d",p(input.nextInt()));
+	input.close();
     }
     
 }
