@@ -26,7 +26,7 @@ public class MinMaxAverage {
 		average /= arr.length;
 
 		// Output
-        System.out.format("Min : %.2f \nMax : %.2f \nAverage : %.2f", min, max, average);
-        input.close();
+        	System.out.format("Min : %.2f \nMax : %.2f \nAverage : %.2f", min, max, average);
+        	input.close();
     }
 }
